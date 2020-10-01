@@ -1,7 +1,7 @@
 
-.top7pc { margin-top:7%; }
-.top50px { margin-top:30px; }
-.lilead{/*margin-bottom:20px;*/font-size:16px;font-weight:300;line-height:1.4}@media (min-width:768px){.lilead{font-size:21px}}
+.top7pc { margin-top:17%; }
+.top50px { margin-top:45px; }
+.lilead{/*margin-bottom:20px;*/font-size:16px;font-weight:300;line-height:1.4}@media (min-width:768px){.lilead{font-size:24px}}
 
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Open Sans', sans-serif;
@@ -11,5 +11,5 @@ p, div {
 }
 
 a:hover{
-    color: red;
+    color: blue;
 }
